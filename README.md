@@ -7,12 +7,21 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Dev-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" <p>python<p>
-  <img align="center" alt="Dev-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" <p>html<p>
   <img align="center" alt="Dev-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" <p>Mysql<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-</div>
+  <img align="center" alt="Dev-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" <p>Linux<p>
 
+</div>
+<div>
+    <p>Aprendendo:</>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/>
+
+            
+            
+
+      
 <div> <span>Redes sociais:</> </div>
   
 <div>
